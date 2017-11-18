@@ -1,0 +1,54 @@
+{
+	"gadz": [
+		{
+			"id": 1,
+			"nom": "Smurph",
+			"prenom": "Gibert",
+			"buque": "Garrett",
+			"fams": "39",
+			"telephone": "0612345678",
+			"photo": "",
+			"localisation": 
+			{
+				"longitude": 38.91,
+				"latitude": 15.43,
+				"adresse": "965 Howell Mill Road",
+				"actuelle": 
+				{
+					"longitude": 38.99,
+					"latitude": 14.39
+				}
+			},
+			"info":
+			{
+				"description": "Petite description de Gibert",
+				"tags": ["tag1", "tag2"]
+			}
+		},
+		{
+			"id": 2,
+			"nom": "Cloutf",
+			"prenom": "Mach",
+			"buque": "Martal",
+			"fams": "67",
+			"telephone": "0687654321",
+			"photo": "",
+			"localisation": 
+			{
+				"longitude": 67.91,
+				"latitude": 34.43,
+				"adresse": "965 Howell Mill Road",
+				"actuelle": 
+				{
+					"longitude": 38.99,
+					"latitude": 14.39
+				}
+			},
+			"info":
+			{
+				"description": "Petite description de Mach",
+				"tags": ["tag1.1", "tag2.2"]
+			}
+		}
+	]
+}
